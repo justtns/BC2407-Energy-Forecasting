@@ -1,5 +1,3 @@
-data/historical_weather.csv
-data/weather_forecast.csv
 data/raw/weather_station_to_county_mapping.csv
 data/raw/weather_forecast.csv
 data/raw/train.csv
